@@ -1,0 +1,23 @@
+
+/*type selectors */
+h1{
+    color:blue;
+    font-family:'Times New Roman', Times, serif
+}
+p{
+    color:hotpink
+}
+
+/* this is basically the entire document */
+/* apply these properties to everything in the body (p1, h1, etc) */
+body {
+    font-family:'new times roman'
+}
+
+/* class selectors */
+
+/* class for my reading responses
+*/
+.responses {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
